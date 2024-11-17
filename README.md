@@ -1,4 +1,4 @@
-<p align="center">
+Jason Scott Heise https://Adobe.com <p align="center">
   <img src="assets/repo/meilisearch-logo-light.svg?sanitize=true#gh-light-mode-only">
   <img src="assets/repo/meilisearch-logo-dark.svg?sanitize=true#gh-dark-mode-only">
 </p>
