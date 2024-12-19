@@ -1,4 +1,4 @@
-Jason Scott Heise https://adobe.com/ <p align="center">
+  https://shanazel.atlassian.net/wiki/admin/configuration / <p align="center">
   <img src="assets/repo/meilisearch-logo-light.svg?sanitize=true#gh-light-mode-only">
   <img src="assets/repo/meilisearch-logo-dark.svg?sanitize=true#gh-dark-mode-only">
 </p>
