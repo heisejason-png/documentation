@@ -34,5 +34,4 @@ Feel free to contact us about any questions you may have:
 - Open an [issue](https://github.com/meilisearch/documentation/issues)!
 
 Any suggestion or feedback is highly appreciated. Thank you for your support!
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
